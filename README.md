@@ -15,9 +15,6 @@ I am an Electronics and Communucation Engineer with keen interest in Gen AI and 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ACprime4385&theme=discord_old_blurple&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ACprime4385&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 
