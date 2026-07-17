@@ -12,7 +12,7 @@
 ```
 
 <!-- Typing Animation (GitHub Readme Stats) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+AChyut+Heygriv+👋;Full-Stack+Developer+⚡;AI+%2B+Agentic+Systems+Expert+🤖;Building+the+Future+Today+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+AChyut+Heygriv+👋; AI Full-Stack+Developer+⚡;AI+%2B+Agentic+Systems+Expert+🤖;Building+the+Future+Today+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -130,12 +130,6 @@ I'm **AChyut Heygriv** from Hyderabad, India, on a mission to build **intelligen
 - Showcases projects and skills
 - **[View Live](https://acprime4385.github.io/Portfolio/)**
 
-#### 📚 DevOps Masterclass Fork
-**Educational Resource** | GitHub Actions • Kubernetes
-- Curated learning materials on modern DevOps practices
-- Practical examples and best practices
-- **[View Repository](https://github.com/ACprime4385)**
-
 ---
 
 ## 📈 GitHub Statistics
@@ -174,7 +168,7 @@ I'm always excited to discuss innovative ideas, collaborate on exciting projects
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/achyut-heygriv/])
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ac__385_hv/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.gg/RyNfNPe7g])
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)][https://www.reddit.com/user/ACheprime_385/])
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/ACheprime_385/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ACheyut523prime@gmail.com)
 
 ### 📬 Reach Out
